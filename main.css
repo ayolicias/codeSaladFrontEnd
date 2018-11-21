@@ -84,6 +84,28 @@ text-align: center;
 
 color: #000000;
 }
+.buttons1{
+position: absolute;
+width: 360px;
+height: 100px;
+left: 0px;
+top: 280px;
+
+background: #68B0AB;
+}
+
+.buttons2{
+position: absolute;
+width: 366px;
+height: 100px;
+left: -1px;
+top: 460px;
+
+background: #696D7D;
+}
+
+
+
 
 footer{
     position: fixed;
