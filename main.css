@@ -128,9 +128,20 @@ footer{
       width: 160px;
   }
   
-  .days {
-    width:150px;
-    
-    
-  }
+  /* .list-group{
+     width: 300px; 
+  } */
  
+  .container-fluid {
+      text-align: center;
+      font-size: 1.5em;
+  }
+.outfit{
+    width:100px;
+    margin:auto;
+}
+  .outfit img{
+      display:inline-block;
+  width:200px;
+  height:200px;
+  }
