@@ -118,3 +118,19 @@ footer{
     text-align: center;
   
   }
+  .pos-f-t{
+    margin-bottom: 5em;
+    margin-top: 3em;
+  }
+  
+  .rounded{
+      height: 140px;
+      width: 160px;
+  }
+  
+  .days {
+    width:150px;
+    
+    
+  }
+ 
